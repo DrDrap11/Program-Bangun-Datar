@@ -1,0 +1,11 @@
+# Program-Bangun-Datar
+
+Ini merupakan codingan atau source code program bangundatar sederhana
+source code ini dibagikan bagi yang mengalami kesulitan saat melakukan coding
+Semoga Bermanfaat :)
+
+pertama yang dimasukkan terleih dahulu adalah Interface BangunDatar
+kedua masukkan Class PersegiPanjang
+ketiga masukkan Class SegitigaSiku
+Keempat masukkan Class Lingkaran
+terakhir masukkan Class Main, karena Hanya Class main yang bisa dijalankan
