@@ -1,4 +1,6 @@
 # Program-Bangun-Datar
+By Dr Drap11
+Ngoding = Kesabaran
 
 Ini merupakan codingan atau source code program bangundatar sederhana
 source code ini dibagikan bagi yang mengalami kesulitan saat melakukan coding
@@ -9,3 +11,7 @@ kedua masukkan Class PersegiPanjang
 ketiga masukkan Class SegitigaSiku
 Keempat masukkan Class Lingkaran
 terakhir masukkan Class Main, karena Hanya Class main yang bisa dijalankan
+
+untuk Interface itu gunanya menginput rumus sekali jalan agar tidak menginput rumus lagi saat ngoding class lain
+
+Semoga bermanfaat :)
